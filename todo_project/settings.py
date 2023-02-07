@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-z*^-wob9gc!i_w44kcwvxk8dl3(u3-6lf(6n+4ikk25g)yv!b=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '.vercel.app']
+ALLOWED_HOSTS = ['localhost', 'todoappbackend-production-b84c.up.railway.app']
 
 
 # Application definition
@@ -119,7 +119,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-CORS_ALLOWED_ORIGINS = ['http://localhost:3000', 'https://todoapp-frontend-ochre.vercel.app/']
+CORS_ALLOWED_ORIGINS = ['http://localhost:3000', 'https://todoapp-frontend-ochre.vercel.app']
 
 
 # Static files (CSS, JavaScript, Images)
