@@ -119,7 +119,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-CORS_ALLOWED_ORIGINS = ['http://localhost:3000', 'https://todoapp-frontend-ochre.vercel.app/']
+CORS_ALLOWED_ORIGINS = ['http://localhost:3000']
 
 
 # Static files (CSS, JavaScript, Images)
